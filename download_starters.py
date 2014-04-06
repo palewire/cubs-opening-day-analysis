@@ -29,9 +29,10 @@ class Downloader(object):
         """
         Scrapes the data from our source. Returns a list of dictionaries.
         """
+        headers = ['year', 'position', 'last_name', 'full_name', 'id', 'url']
         outfile = csv.DictWriter(
             open("./starters.csv", "wb"),
-            ['year', 'position', 'last_name', 'full_name', 'id', 'url']
+            headers
         )
         url = 'http://www.baseball-reference.com/teams/CHC/opening.shtml'
         req = requests.get(url)

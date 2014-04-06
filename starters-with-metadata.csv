@@ -1,3 +1,4 @@
+year,position,last_name,full_name,id,url,birthplace_url,birthplace,birthplace_is_usa
 2014,C,Castillo,Welington Castillo,castiwe01,http://baseball-reference.com/players/c/castiwe01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 2014,1B,Rizzo,Anthony Rizzo,rizzoan01,http://baseball-reference.com/players/r/rizzoan01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 2014,2B,Barney,Darwin Barney,barneda01,http://baseball-reference.com/players/b/barneda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
@@ -16,7 +17,7 @@
 2013,CF,DeJesus,David DeJesus,dejesda01,http://baseball-reference.com/players/d/dejesda01.shtml,http://baseball-reference.com/bio/NY_born.shtml,NY,True
 2013,RF,Schierholtz,Nate Schierholtz,schiena01,http://baseball-reference.com/players/s/schiena01.shtml,http://baseball-reference.com/bio/NV_born.shtml,NV,True
 2013,P,Samardzija,Jeff Samardzija,samarje01,http://baseball-reference.com/players/s/samarje01.shtml,http://baseball-reference.com/bio/IN_born.shtml,IN,True
-2012,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+2012,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 2012,1B,Baker,Jeff Baker,bakerje03,http://baseball-reference.com/players/b/bakerje03.shtml,http://baseball-reference.com/bio/Germany_born.shtml,Germany,False
 2012,2B,Barney,Darwin Barney,barneda01,http://baseball-reference.com/players/b/barneda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
 2012,3B,Stewart,Ian Stewart,stewaia01,http://baseball-reference.com/players/s/stewaia01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
@@ -25,7 +26,7 @@
 2012,CF,Byrd,Marlon Byrd,byrdma01,http://baseball-reference.com/players/b/byrdma01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 2012,RF,DeJesus,David DeJesus,dejesda01,http://baseball-reference.com/players/d/dejesda01.shtml,http://baseball-reference.com/bio/NY_born.shtml,NY,True
 2012,P,Dempster,Ryan Dempster,dempsry01,http://baseball-reference.com/players/d/dempsry01.shtml,http://baseball-reference.com/bio/Canada_born.shtml,British Columbia,False
-2011,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+2011,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 2011,1B,Pena,Carlos Pena,penaca01,http://baseball-reference.com/players/p/penaca01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 2011,2B,Barney,Darwin Barney,barneda01,http://baseball-reference.com/players/b/barneda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
 2011,3B,Ramirez,Aramis Ramirez,ramirar01,http://baseball-reference.com/players/r/ramirar01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
@@ -34,7 +35,7 @@
 2011,CF,Byrd,Marlon Byrd,byrdma01,http://baseball-reference.com/players/b/byrdma01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 2011,RF,Fukudome,Kosuke Fukudome,fukudko01,http://baseball-reference.com/players/f/fukudko01.shtml,http://baseball-reference.com/bio/Japan_born.shtml,Japan,False
 2011,P,Dempster,Ryan Dempster,dempsry01,http://baseball-reference.com/players/d/dempsry01.shtml,http://baseball-reference.com/bio/Canada_born.shtml,British Columbia,False
-2010,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+2010,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 2010,1B,Lee,Derrek Lee,leede02,http://baseball-reference.com/players/l/leede02.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 2010,2B,Fontenot,Mike Fontenot,fontemi01,http://baseball-reference.com/players/f/fontemi01.shtml,http://baseball-reference.com/bio/LA_born.shtml,LA,True
 2010,3B,Ramirez,Aramis Ramirez,ramirar01,http://baseball-reference.com/players/r/ramirar01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
@@ -43,7 +44,7 @@
 2010,CF,Byrd,Marlon Byrd,byrdma01,http://baseball-reference.com/players/b/byrdma01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 2010,RF,Fukudome,Kosuke Fukudome,fukudko01,http://baseball-reference.com/players/f/fukudko01.shtml,http://baseball-reference.com/bio/Japan_born.shtml,Japan,False
 2010,P,Zambrano,Carlos Zambrano,zambrca01,http://baseball-reference.com/players/z/zambrca01.shtml,http://baseball-reference.com/bio/Venezuela_born.shtml,Venezuela,False
-2009,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+2009,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 2009,1B,Lee,Derrek Lee,leede02,http://baseball-reference.com/players/l/leede02.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 2009,2B,Fontenot,Mike Fontenot,fontemi01,http://baseball-reference.com/players/f/fontemi01.shtml,http://baseball-reference.com/bio/LA_born.shtml,LA,True
 2009,3B,Ramirez,Aramis Ramirez,ramirar01,http://baseball-reference.com/players/r/ramirar01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
@@ -52,7 +53,7 @@
 2009,CF,Fukudome,Kosuke Fukudome,fukudko01,http://baseball-reference.com/players/f/fukudko01.shtml,http://baseball-reference.com/bio/Japan_born.shtml,Japan,False
 2009,RF,Bradley,Milton Bradley,bradlmi01,http://baseball-reference.com/players/b/bradlmi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 2009,P,Zambrano,Carlos Zambrano,zambrca01,http://baseball-reference.com/players/z/zambrca01.shtml,http://baseball-reference.com/bio/Venezuela_born.shtml,Venezuela,False
-2008,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+2008,C,Soto,Geovany Soto,sotoge01,http://baseball-reference.com/players/s/sotoge01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 2008,1B,Lee,Derrek Lee,leede02,http://baseball-reference.com/players/l/leede02.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 2008,2B,DeRosa,Mark DeRosa,derosma01,http://baseball-reference.com/players/d/derosma01.shtml,http://baseball-reference.com/bio/NJ_born.shtml,NJ,True
 2008,3B,Ramirez,Aramis Ramirez,ramirar01,http://baseball-reference.com/players/r/ramirar01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
@@ -133,11 +134,11 @@
 2000,CF,Buford,Damon Buford,buforda01,http://baseball-reference.com/players/b/buforda01.shtml,http://baseball-reference.com/bio/MD_born.shtml,MD,True
 2000,RF,Sosa,Sammy Sosa,sosasa01,http://baseball-reference.com/players/s/sosasa01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 2000,P,Lieber,Jon Lieber,liebejo01,http://baseball-reference.com/players/l/liebejo01.shtml,http://baseball-reference.com/bio/IA_born.shtml,IA,True
-1999,C,Santiago,Benito Santiago,santibe01,http://baseball-reference.com/players/s/santibe01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1999,C,Santiago,Benito Santiago,santibe01,http://baseball-reference.com/players/s/santibe01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1999,1B,Grace,Mark Grace,gracema01,http://baseball-reference.com/players/g/gracema01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
 1999,2B,Morandini,Mickey Morandini,moranmi01,http://baseball-reference.com/players/m/moranmi01.shtml,http://baseball-reference.com/bio/PA_born.shtml,PA,True
 1999,3B,Gaetti,Gary Gaetti,gaettga01,http://baseball-reference.com/players/g/gaettga01.shtml,http://baseball-reference.com/bio/IL_born.shtml,IL,True
-1999,SS,Hernandez,Jose Hernandez,hernajo01,http://baseball-reference.com/players/h/hernajo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1999,SS,Hernandez,Jose Hernandez,hernajo01,http://baseball-reference.com/players/h/hernajo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1999,LF,Rodriguez,Henry Rodriguez,rodrihe02,http://baseball-reference.com/players/r/rodrihe02.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 1999,CF,Johnson,Lance Johnson,johnsla03,http://baseball-reference.com/players/j/johnsla03.shtml,http://baseball-reference.com/bio/OH_born.shtml,OH,True
 1999,RF,Sosa,Sammy Sosa,sosasa01,http://baseball-reference.com/players/s/sosasa01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
@@ -163,15 +164,15 @@
 1996,C,Servais,Scott Servais,servasc01,http://baseball-reference.com/players/s/servasc01.shtml,http://baseball-reference.com/bio/WI_born.shtml,WI,True
 1996,1B,Grace,Mark Grace,gracema01,http://baseball-reference.com/players/g/gracema01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
 1996,2B,Sandberg,Ryne Sandberg,sandbry01,http://baseball-reference.com/players/s/sandbry01.shtml,http://baseball-reference.com/bio/WA_born.shtml,WA,True
-1996,3B,Hernandez,Jose Hernandez,hernajo01,http://baseball-reference.com/players/h/hernajo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
-1996,SS,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1996,3B,Hernandez,Jose Hernandez,hernajo01,http://baseball-reference.com/players/h/hernajo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
+1996,SS,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1996,LF,Gonzalez,Luis Gonzalez,gonzalu01,http://baseball-reference.com/players/g/gonzalu01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 1996,CF,McRae,Brian McRae,mcraebr01,http://baseball-reference.com/players/m/mcraebr01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 1996,RF,Sosa,Sammy Sosa,sosasa01,http://baseball-reference.com/players/s/sosasa01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
-1996,P,Navarro,Jaime Navarro,navarja01,http://baseball-reference.com/players/n/navarja01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1996,P,Navarro,Jaime Navarro,navarja01,http://baseball-reference.com/players/n/navarja01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1995,C,Wilkins,Rick Wilkins,wilkiri01,http://baseball-reference.com/players/w/wilkiri01.shtml,http://baseball-reference.com/bio/FL_born.shtml,FL,True
 1995,1B,Grace,Mark Grace,gracema01,http://baseball-reference.com/players/g/gracema01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
-1995,2B,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1995,2B,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1995,3B,Buechele,Steve Buechele,buechst01,http://baseball-reference.com/players/b/buechst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1995,SS,Dunston,Shawon Dunston,dunstsh01,http://baseball-reference.com/players/d/dunstsh01.shtml,http://baseball-reference.com/bio/NY_born.shtml,NY,True
 1995,LF,Bullett,Scott Bullett,bullesc01,http://baseball-reference.com/players/b/bullesc01.shtml,http://baseball-reference.com/bio/WV_born.shtml,WV,True
@@ -191,12 +192,12 @@
 1993,1B,Grace,Mark Grace,gracema01,http://baseball-reference.com/players/g/gracema01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
 1993,2B,Vizcaino,Jose Vizcaino,vizcajo01,http://baseball-reference.com/players/v/vizcajo01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 1993,3B,Buechele,Steve Buechele,buechst01,http://baseball-reference.com/players/b/buechst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1993,SS,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
-1993,LF,Maldonado,Candy Maldonado,maldoca01,http://baseball-reference.com/players/m/maldoca01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1993,SS,Sanchez,Rey Sanchez,sanchre01,http://baseball-reference.com/players/s/sanchre01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
+1993,LF,Maldonado,Candy Maldonado,maldoca01,http://baseball-reference.com/players/m/maldoca01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1993,CF,Wilson,Willie Wilson,wilsowi02,http://baseball-reference.com/players/w/wilsowi02.shtml,http://baseball-reference.com/bio/AL_born.shtml,AL,True
 1993,RF,Sosa,Sammy Sosa,sosasa01,http://baseball-reference.com/players/s/sosasa01.shtml,http://baseball-reference.com/bio/Dominican-Republic_born.shtml,Dominican Republic,False
 1993,P,Morgan,Mike Morgan,morgami01,http://baseball-reference.com/players/m/morgami01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1992,C,Villanueva,Hector Villanueva,villahe01,http://baseball-reference.com/players/v/villahe01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1992,C,Villanueva,Hector Villanueva,villahe01,http://baseball-reference.com/players/v/villahe01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1992,1B,Grace,Mark Grace,gracema01,http://baseball-reference.com/players/g/gracema01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
 1992,2B,Sandberg,Ryne Sandberg,sandbry01,http://baseball-reference.com/players/s/sandbry01.shtml,http://baseball-reference.com/bio/WA_born.shtml,WA,True
 1992,3B,Scott,Gary Scott,scottga01,http://baseball-reference.com/players/s/scottga01.shtml,http://baseball-reference.com/bio/NY_born.shtml,NY,True
@@ -299,7 +300,7 @@
 1981,1B,Buckner,Bill Buckner,bucknbi01,http://baseball-reference.com/players/b/bucknbi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1981,2B,Strain,Joe Strain,straijo01,http://baseball-reference.com/players/s/straijo01.shtml,http://baseball-reference.com/bio/CO_born.shtml,CO,True
 1981,3B,Reitz,Ken Reitz,reitzke01,http://baseball-reference.com/players/r/reitzke01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1981,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1981,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1981,LF,Henderson,Steve Henderson,hendest01,http://baseball-reference.com/players/h/hendest01.shtml,http://baseball-reference.com/bio/TX_born.shtml,TX,True
 1981,CF,Thompson,Scot Thompson,thompsc01,http://baseball-reference.com/players/t/thompsc01.shtml,http://baseball-reference.com/bio/PA_born.shtml,PA,True
 1981,RF,Durham,Leon Durham,durhale01,http://baseball-reference.com/players/d/durhale01.shtml,http://baseball-reference.com/bio/OH_born.shtml,OH,True
@@ -308,16 +309,16 @@
 1980,1B,Buckner,Bill Buckner,bucknbi01,http://baseball-reference.com/players/b/bucknbi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1980,2B,Randle,Lenny Randle,randlle01,http://baseball-reference.com/players/r/randlle01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1980,3B,Ontiveros,Steve Ontiveros,ontivst01,http://baseball-reference.com/players/o/ontivst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1980,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1980,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1980,LF,Kingman,Dave Kingman,kingmda01,http://baseball-reference.com/players/k/kingmda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
-1980,CF,Lezcano,Carlos Lezcano,lezcaca01,http://baseball-reference.com/players/l/lezcaca01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1980,CF,Lezcano,Carlos Lezcano,lezcaca01,http://baseball-reference.com/players/l/lezcaca01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1980,RF,Henderson,Ken Henderson,hendeke01,http://baseball-reference.com/players/h/hendeke01.shtml,http://baseball-reference.com/bio/IA_born.shtml,IA,True
 1980,P,Reuschel,Rick Reuschel,reuscri01,http://baseball-reference.com/players/r/reuscri01.shtml,http://baseball-reference.com/bio/IL_born.shtml,IL,True
 1979,C,Foote,Barry Foote,footeba01,http://baseball-reference.com/players/f/footeba01.shtml,http://baseball-reference.com/bio/NC_born.shtml,NC,True
 1979,1B,Buckner,Bill Buckner,bucknbi01,http://baseball-reference.com/players/b/bucknbi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1979,2B,Sizemore,Ted Sizemore,sizemte01,http://baseball-reference.com/players/s/sizemte01.shtml,http://baseball-reference.com/bio/AL_born.shtml,AL,True
 1979,3B,Ontiveros,Steve Ontiveros,ontivst01,http://baseball-reference.com/players/o/ontivst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1979,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1979,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1979,LF,Kingman,Dave Kingman,kingmda01,http://baseball-reference.com/players/k/kingmda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
 1979,CF,Martin,Jerry Martin,martije01,http://baseball-reference.com/players/m/martije01.shtml,http://baseball-reference.com/bio/SC_born.shtml,SC,True
 1979,RF,Murcer,Bobby Murcer,murcebo01,http://baseball-reference.com/players/m/murcebo01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
@@ -326,7 +327,7 @@
 1978,1B,Buckner,Bill Buckner,bucknbi01,http://baseball-reference.com/players/b/bucknbi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1978,2B,Trillo,Manny Trillo,trillma01,http://baseball-reference.com/players/t/trillma01.shtml,http://baseball-reference.com/bio/Venezuela_born.shtml,Venezuela,False
 1978,3B,Ontiveros,Steve Ontiveros,ontivst01,http://baseball-reference.com/players/o/ontivst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1978,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1978,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1978,LF,Kingman,Dave Kingman,kingmda01,http://baseball-reference.com/players/k/kingmda01.shtml,http://baseball-reference.com/bio/OR_born.shtml,OR,True
 1978,CF,Clines,Gene Clines,clinege01,http://baseball-reference.com/players/c/clinege01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1978,RF,Murcer,Bobby Murcer,murcebo01,http://baseball-reference.com/players/m/murcebo01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
@@ -335,19 +336,19 @@
 1977,1B,Biittner,Larry Biittner,biittla01,http://baseball-reference.com/players/b/biittla01.shtml,http://baseball-reference.com/bio/IA_born.shtml,IA,True
 1977,2B,Trillo,Manny Trillo,trillma01,http://baseball-reference.com/players/t/trillma01.shtml,http://baseball-reference.com/bio/Venezuela_born.shtml,Venezuela,False
 1977,3B,Ontiveros,Steve Ontiveros,ontivst01,http://baseball-reference.com/players/o/ontivst01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
-1977,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1977,SS,de Jesus,Ivan de Jesus,dejesiv01,http://baseball-reference.com/players/d/dejesiv01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1977,LF,Cardenal,Jose Cardenal,cardejo02,http://baseball-reference.com/players/c/cardejo02.shtml,http://baseball-reference.com/bio/Cuba_born.shtml,Cuba,False
-1977,CF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1977,CF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1977,RF,Murcer,Bobby Murcer,murcebo01,http://baseball-reference.com/players/m/murcebo01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
 1977,P,Burris,Ray Burris,burrira01,http://baseball-reference.com/players/b/burrira01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
 1976,C,Swisher,Steve Swisher,swishst01,http://baseball-reference.com/players/s/swishst01.shtml,http://baseball-reference.com/bio/WV_born.shtml,WV,True
 1976,1B,Thornton,Andre Thornton,thornan01,http://baseball-reference.com/players/t/thornan01.shtml,http://baseball-reference.com/bio/AL_born.shtml,AL,True
 1976,2B,Trillo,Manny Trillo,trillma01,http://baseball-reference.com/players/t/trillma01.shtml,http://baseball-reference.com/bio/Venezuela_born.shtml,Venezuela,False
 1976,3B,Madlock,Bill Madlock,madlobi01,http://baseball-reference.com/players/m/madlobi01.shtml,http://baseball-reference.com/bio/TN_born.shtml,TN,True
-1976,SS,Rosello,Dave Rosello,roselda01,http://baseball-reference.com/players/r/roselda01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1976,SS,Rosello,Dave Rosello,roselda01,http://baseball-reference.com/players/r/roselda01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1976,LF,Cardenal,Jose Cardenal,cardejo02,http://baseball-reference.com/players/c/cardejo02.shtml,http://baseball-reference.com/bio/Cuba_born.shtml,Cuba,False
 1976,CF,Monday,Rick Monday,mondari01,http://baseball-reference.com/players/m/mondari01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
-1976,RF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1976,RF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1976,P,Burris,Ray Burris,burrira01,http://baseball-reference.com/players/b/burrira01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
 1975,C,Swisher,Steve Swisher,swishst01,http://baseball-reference.com/players/s/swishst01.shtml,http://baseball-reference.com/bio/WV_born.shtml,WV,True
 1975,1B,LaCock,Pete LaCock,lacocpe01,http://baseball-reference.com/players/l/lacocpe01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
@@ -356,14 +357,14 @@
 1975,SS,Kessinger,Don Kessinger,kessido01,http://baseball-reference.com/players/k/kessido01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
 1975,LF,Cardenal,Jose Cardenal,cardejo02,http://baseball-reference.com/players/c/cardejo02.shtml,http://baseball-reference.com/bio/Cuba_born.shtml,Cuba,False
 1975,CF,Monday,Rick Monday,mondari01,http://baseball-reference.com/players/m/mondari01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
-1975,RF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1975,RF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1975,P,Bonham,Bill Bonham,bonhabi01,http://baseball-reference.com/players/b/bonhabi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1974,C,Mitterwald,George Mitterwald,mittege01,http://baseball-reference.com/players/m/mittege01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1974,1B,Williams,Billy Williams,willibi01,http://baseball-reference.com/players/w/willibi01.shtml,http://baseball-reference.com/bio/AL_born.shtml,AL,True
 1974,2B,Harris,Vic Harris,harrivi01,http://baseball-reference.com/players/h/harrivi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
 1974,3B,Madlock,Bill Madlock,madlobi01,http://baseball-reference.com/players/m/madlobi01.shtml,http://baseball-reference.com/bio/TN_born.shtml,TN,True
 1974,SS,Kessinger,Don Kessinger,kessido01,http://baseball-reference.com/players/k/kessido01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
-1974,LF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1974,LF,Morales,Jerry Morales,moralje01,http://baseball-reference.com/players/m/moralje01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1974,CF,Monday,Rick Monday,mondari01,http://baseball-reference.com/players/m/mondari01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
 1974,RF,Cardenal,Jose Cardenal,cardejo02,http://baseball-reference.com/players/c/cardejo02.shtml,http://baseball-reference.com/bio/Cuba_born.shtml,Cuba,False
 1974,P,Bonham,Bill Bonham,bonhabi01,http://baseball-reference.com/players/b/bonhabi01.shtml,http://baseball-reference.com/bio/CA_born.shtml,CA,True
@@ -391,7 +392,7 @@
 1971,3B,Santo,Ron Santo,santoro01,http://baseball-reference.com/players/s/santoro01.shtml,http://baseball-reference.com/bio/WA_born.shtml,WA,True
 1971,SS,Kessinger,Don Kessinger,kessido01,http://baseball-reference.com/players/k/kessido01.shtml,http://baseball-reference.com/bio/AR_born.shtml,AR,True
 1971,LF,Williams,Billy Williams,willibi01,http://baseball-reference.com/players/w/willibi01.shtml,http://baseball-reference.com/bio/AL_born.shtml,AL,True
-1971,CF,Ortiz,Jose Ortiz,ortizjo01,http://baseball-reference.com/players/o/ortizjo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,False
+1971,CF,Ortiz,Jose Ortiz,ortizjo01,http://baseball-reference.com/players/o/ortizjo01.shtml,http://baseball-reference.com/bio/Puerto-Rico_born.shtml,Puerto Rico,True
 1971,RF,Callison,Johnny Callison,callijo01,http://baseball-reference.com/players/c/callijo01.shtml,http://baseball-reference.com/bio/OK_born.shtml,OK,True
 1971,P,Jenkins,Fergie Jenkins,jenkife01,http://baseball-reference.com/players/j/jenkife01.shtml,http://baseball-reference.com/bio/Canada_born.shtml,Ontario,False
 1970,C,Martin,J.C. Martin,martij.01,http://baseball-reference.com/players/m/martij.01.shtml,http://baseball-reference.com/bio/VA_born.shtml,VA,True

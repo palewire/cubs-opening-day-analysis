@@ -41,7 +41,7 @@ class Downloader(object):
         row.update({
             'birthplace_url': 'http://baseball-reference.com%s' % birth_a['href'],
             'birthplace_name': birth_a.contents[0].strip(),
-            'birthplace_is_usa': len(birth_a.contents[0].strip()) == 2
+            'birthplace_is_usa': len(birth_a.contents[0].strip()) == 2 or birth_a.contents[0] == 'Puerto Rico'
         })
         return row
 
